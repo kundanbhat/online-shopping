@@ -75,5 +75,8 @@ footer {
 	bottom: 15px;
 	height: 60px;
 }
+#home .active{
+	color:#FFF;
+}
 
 
